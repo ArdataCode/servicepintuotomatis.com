@@ -1,0 +1,1579 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Habitate - Template Kit for Smart Home",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/show.moxcreative.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/habitate\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Service",
+            "screenshot": "screenshots\/single-service.jpg",
+            "source": "templates\/single-service.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/habitate\/template-kit\/single-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/habitate\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/habitate\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/habitate\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/habitate\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/habitate\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/habitate\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/habitate\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Habitate v1 - Single Post",
+            "screenshot": "screenshots\/habitate-v1-single-post.jpg",
+            "source": "templates\/habitate-v1-single-post.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/habitate\/?elementor_library=habitate-v1-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Habitate v1 - Archive",
+            "screenshot": "screenshots\/habitate-v1-archive.jpg",
+            "source": "templates\/habitate-v1-archive.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/habitate\/?elementor_library=habitate-v1-archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Habitat v1 - Error 404",
+            "screenshot": "screenshots\/habitat-v1-error-404.jpg",
+            "source": "templates\/habitat-v1-error-404.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/habitate\/?elementor_library=habitat-v1-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Habitate v1 - Footer",
+            "screenshot": "screenshots\/habitate-v1-footer.jpg",
+            "source": "templates\/habitate-v1-footer.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/habitate\/?elementor_library=habitate-v1-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Habitate v1 - Header",
+            "screenshot": "screenshots\/habitate-v1-header.jpg",
+            "source": "templates\/habitate-v1-header.json",
+            "preview_url": "https:\/\/show.moxcreative.com\/habitate\/?elementor_library=habitate-v1-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Element Pack Lite - Addons for Elementor",
+            "version": "3.7.0",
+            "file": "bdthemes-element-pack-lite\/bdthemes-element-pack-lite.php",
+            "author": "BdThemes"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Premium Addons for Elementor",
+            "version": "4.8.4",
+            "file": "premium-addons-for-elementor\/premium-addons-for-elementor.php",
+            "author": "Leap13"
+        },
+        {
+            "name": "Qi Addons For Elementor",
+            "version": "1.5.2",
+            "file": "qi-addons-for-elementor\/class-qiaddonsforelementor.php",
+            "author": "Qode Interactive"
+        }
+    ],
+    "images": [
+        {
+            "filename": "digital-tablet-screen-with-smart-home-controller-on-a-wooden-table.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/digital-tablet-screen-with-smart-home-controller-on-a-wooden-table-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 60752,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NJFRUS7"
+        },
+        {
+            "filename": "young-modern-cheerful-family-talking-through-video-chat.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/young-modern-cheerful-family-talking-through-video-chat-800x526.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 115934,
+            "dimensions": [
+                1080,
+                710
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-B5PR9H8"
+        },
+        {
+            "filename": "controlling-smart-home-with-a-digital-tablet.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/controlling-smart-home-with-a-digital-tablet-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 57270,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DWHJBEX"
+        },
+        {
+            "filename": "portrait-of-a-happy-woman-controlling-smart-home.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/portrait-of-a-happy-woman-controlling-smart-home-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 75032,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RWW84Q3"
+        },
+        {
+            "filename": "a-woman-holding-a-tablet-with-smart-home-screen-.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/a-woman-holding-a-tablet-with-smart-home-screen--800x536.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 78045,
+            "dimensions": [
+                1080,
+                723
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P9W5HDC"
+        },
+        {
+            "filename": "dehaus.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/dehaus.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 6525,
+            "dimensions": [
+                165,
+                55
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "graha.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/graha.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 4285,
+            "dimensions": [
+                221,
+                62
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "asgardia-1.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/asgardia-1-800x188.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 22134,
+            "dimensions": [
+                2558,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "earth-2.0.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/earth-2.0-800x190.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 54681,
+            "dimensions": [
+                2520,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "amara.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/amara-800x210.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 17866,
+            "dimensions": [
+                2284,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "nirastate-1.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/nirastate-1-800x162.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 18222,
+            "dimensions": [
+                2970,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "velocity-9.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/velocity-9-800x206.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 38343,
+            "dimensions": [
+                2333,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "artchi.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/artchi.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 5611,
+            "dimensions": [
+                189,
+                49
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "computer-3d-modeling-of-residential-building.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/computer-3d-modeling-of-residential-building-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 138301,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-JWUCE5A"
+        },
+        {
+            "filename": "consultation.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/consultation-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 73900,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DUUQUBW"
+        },
+        {
+            "filename": "dividers-on-the-architectural-project.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/dividers-on-the-architectural-project-800x649.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 120021,
+            "dimensions": [
+                1080,
+                876
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-6NDWLXZ"
+        },
+        {
+            "filename": "low-angle-view-of-professional-team-of-architects-using-digital-tablet-while-working-together.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/low-angle-view-of-professional-team-of-architects-using-digital-tablet-while-working-together-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 86644,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-F2M9GHE"
+        },
+        {
+            "filename": "a-homeowner-and-woman-adjusts-the-settings-and-temperature-on-her-ecobee-smart-thermostat.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/a-homeowner-and-woman-adjusts-the-settings-and-temperature-on-her-ecobee-smart-thermostat-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 189216,
+            "dimensions": [
+                1080,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-2MDHHVV"
+        },
+        {
+            "filename": "relaxed-woman-with-phone-and-robotic-vacuum-cleaner-1.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/relaxed-woman-with-phone-and-robotic-vacuum-cleaner-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 95502,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YSFCGCJ"
+        },
+        {
+            "filename": "man-changing-tv-channel-by-his-smartphone.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/man-changing-tv-channel-by-his-smartphone-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 55295,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YZ6QX54"
+        },
+        {
+            "filename": "controlling-light-bulb-with-mobile-device.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/controlling-light-bulb-with-mobile-device-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 60298,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XHKC5PV"
+        },
+        {
+            "filename": "living-room-of-a-modern-villa.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/living-room-of-a-modern-villa-800x493.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 111502,
+            "dimensions": [
+                1080,
+                666
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-GZYPV9N"
+        },
+        {
+            "filename": "colorful-living-room-of-a-modern-villa.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/colorful-living-room-of-a-modern-villa-800x432.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 102024,
+            "dimensions": [
+                1080,
+                584
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XSL39Z4"
+        },
+        {
+            "filename": "P4.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/P4-800x433.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 67395,
+            "dimensions": [
+                1080,
+                584
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/modern-blue-living-room-of-a-modern-villa-U34NUH2"
+        },
+        {
+            "filename": "couple-relaxing-with-at-home.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/couple-relaxing-with-at-home-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 75514,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-X9Q7NY4"
+        },
+        {
+            "filename": "C4.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/C4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 96810,
+            "dimensions": [
+                300,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-happy-young-english-tutor-looking-at-c-XYU2M4U"
+        },
+        {
+            "filename": "nirastate.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/nirastate-800x162.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 18222,
+            "dimensions": [
+                2970,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "C5.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/C5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 126508,
+            "dimensions": [
+                300,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-man-sitting-on-couch-at-home-smiling-TEMBUG7"
+        },
+        {
+            "filename": "asgardia.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/asgardia-800x188.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 22134,
+            "dimensions": [
+                2558,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "woman-controlling-temperature-with-a-smart-thermostat-at-modern-apartment.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/woman-controlling-temperature-with-a-smart-thermostat-at-modern-apartment-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 70960,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JPATA2T"
+        },
+        {
+            "filename": "attractive-smart-young-man-sitting-on-a-floor-in-the-living-room.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/attractive-smart-young-man-sitting-on-a-floor-in-the-living-room-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 101329,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YMMTW7L"
+        },
+        {
+            "filename": "closeup-of-smart-portable-wireless-speaker-on-the-table.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/closeup-of-smart-portable-wireless-speaker-on-the-table-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/habitate-v1-single-post.json",
+                    "name": "Habitate v1 - Single Post"
+                }
+            ],
+            "filesize": 56037,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JLYHLZ5"
+        },
+        {
+            "filename": "smart-speaker-for-house-control-innovative-technology.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/smart-speaker-for-house-control-innovative-technology-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 50020,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-2SLLBQD"
+        },
+        {
+            "filename": "video-door-phone-with-electrical-switch.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/video-door-phone-with-electrical-switch-800x598.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 114238,
+            "dimensions": [
+                1080,
+                807
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZB3AXYA"
+        },
+        {
+            "filename": "call-center.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/call-center-800x588.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 68521,
+            "dimensions": [
+                1080,
+                794
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8TK3NA4"
+        },
+        {
+            "filename": "pretty-blonde-woman-using-digital-tablet-smart-home-concept.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/pretty-blonde-woman-using-digital-tablet-smart-home-concept-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 64333,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RB479JP"
+        },
+        {
+            "filename": "smartphone-with-smart-home-application-to-turn-on-and-off-the-lights.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/smartphone-with-smart-home-application-to-turn-on-and-off-the-lights-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 51789,
+            "dimensions": [
+                1080,
+                608
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-G4G8H5K"
+        },
+        {
+            "filename": "happy-loving-family-.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/happy-loving-family--800x540.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 100398,
+            "dimensions": [
+                1080,
+                730
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NHTR2WE"
+        },
+        {
+            "filename": "boy-changes-temperature-on-central-heating-thermostat-control-using-mobile-phone-app.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/boy-changes-temperature-on-central-heating-thermostat-control-using-mobile-phone-app-800x511.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 86209,
+            "dimensions": [
+                1080,
+                690
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FHGDL9Z"
+        },
+        {
+            "filename": "modern-villa-with-pool-and-deck.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/modern-villa-with-pool-and-deck-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 133556,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-H27FA57"
+        },
+        {
+            "filename": "P6.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/P6-800x433.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 93741,
+            "dimensions": [
+                1080,
+                584
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/living-room-of-a-modern-villa-GZYPV9N"
+        },
+        {
+            "filename": "P5.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/P5-800x433.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 65521,
+            "dimensions": [
+                1080,
+                584
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/living-room-of-a-modern-villa-EZHMWQU"
+        },
+        {
+            "filename": "P3-1.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/P3-1-800x433.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 62534,
+            "dimensions": [
+                1080,
+                584
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/minimalist-living-room-of-a-modern-villa-GA275L7"
+        },
+        {
+            "filename": "P1.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/P1-800x433.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 93820,
+            "dimensions": [
+                1080,
+                584
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/living-room-of-a-modern-villa-S8DPQMA"
+        },
+        {
+            "filename": "P2.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/P2-800x433.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 92973,
+            "dimensions": [
+                1080,
+                584
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/colorful-living-room-of-a-modern-villa-XSL39Z4"
+        },
+        {
+            "filename": "architect-design-working-drawing-sketch-plans-blueprints-and-making-architectural-construction-model.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/architect-design-working-drawing-sketch-plans-blueprints-and-making-architectural-construction-model-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 146918,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-GKHDV94"
+        },
+        {
+            "filename": "man-dimming-lights-in-room.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/man-dimming-lights-in-room-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 76245,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-653GZ5L"
+        },
+        {
+            "filename": "woman-controlling-heating-with-a-smart-devices.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/woman-controlling-heating-with-a-smart-devices-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/habitate-v1-archive.json",
+                    "name": "Habitate v1 - Archive"
+                }
+            ],
+            "filesize": 69255,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HEDJ69M"
+        },
+        {
+            "filename": "creative-team-meeting-to-discuss-professional-project.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/creative-team-meeting-to-discuss-professional-project-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 141832,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PKUDJLE"
+        },
+        {
+            "filename": "Team-8.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/Team-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 93339,
+            "dimensions": [
+                300,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/businessman-smiling-at-camera-crossing-hands-studi-WT3FV65"
+        },
+        {
+            "filename": "Team-2.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/Team-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 81565,
+            "dimensions": [
+                300,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pretty-mixed-race-businesswoman-standing-with-hand-X3W5HP6"
+        },
+        {
+            "filename": "Team-7.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/Team-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 89071,
+            "dimensions": [
+                300,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-confident-male-entrepreneur-with-postive-smi-BDAU9DK"
+        },
+        {
+            "filename": "Team-3.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/Team-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 122383,
+            "dimensions": [
+                300,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-cheerful-european-female-with-satisfie-W73EUUE"
+        },
+        {
+            "filename": "Team-5.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/Team-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 145538,
+            "dimensions": [
+                300,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/waist-up-portrait-of-calm-and-successful-young-bus-W5FWBWU"
+        },
+        {
+            "filename": "Team-4.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/Team-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 86399,
+            "dimensions": [
+                300,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/waist-up-shot-of-handsome-self-confident-cheerful--BUTM9PX"
+        },
+        {
+            "filename": "Team-6.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/Team-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 146392,
+            "dimensions": [
+                300,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cute-teenage-ginger-girl-with-combed-hair-and-beau-QXGXK9V"
+        },
+        {
+            "filename": "Team-1.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/Team-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 104407,
+            "dimensions": [
+                300,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-positive-young-guy-in-t-shirt-looking--GKPQ7BL"
+        },
+        {
+            "filename": "cheerful-man-with-digital-tablet.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/cheerful-man-with-digital-tablet-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 73211,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-R5GY972"
+        },
+        {
+            "filename": "exterior-wall-of-modern-architecture-building.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/exterior-wall-of-modern-architecture-building-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 117737,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FMR68U7"
+        },
+        {
+            "filename": "sofa-on-the-in-modern-living-room-the-concrete-wall-.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/sofa-on-the-in-modern-living-room-the-concrete-wall--800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/habitate-v1-archive.json",
+                    "name": "Habitate v1 - Archive"
+                }
+            ],
+            "filesize": 98785,
+            "dimensions": [
+                1080,
+                608
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FMKD7BQ"
+        },
+        {
+            "filename": "home-entrance-of-a-modern-villa.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/home-entrance-of-a-modern-villa-800x368.jpg",
+            "templates": [
+                {
+                    "source": "templates\/habitate-v1-single-post.json",
+                    "name": "Habitate v1 - Single Post"
+                }
+            ],
+            "filesize": 62191,
+            "dimensions": [
+                1080,
+                496
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-UKX6GSR"
+        },
+        {
+            "filename": "cabinet-tv-in-modern-living-room-interior-of-a-bright-living-room-1-1.jpg",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/cabinet-tv-in-modern-living-room-interior-of-a-bright-living-room-1-1-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/habitat-v1-error-404.json",
+                    "name": "Habitat v1 - Error 404"
+                }
+            ],
+            "filesize": 47959,
+            "dimensions": [
+                1080,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-EZJB3FD"
+        },
+        {
+            "filename": "Logo_Black.png",
+            "thumbnail_url": "https:\/\/show.moxcreative.com\/habitate\/wp-content\/uploads\/sites\/50\/2022\/01\/Logo_Black-800x190.png",
+            "templates": [
+                {
+                    "source": "templates\/habitate-v1-footer.json",
+                    "name": "Habitate v1 - Footer"
+                },
+                {
+                    "source": "templates\/habitate-v1-header.json",
+                    "name": "Habitate v1 - Header"
+                }
+            ],
+            "filesize": 45217,
+            "dimensions": [
+                1182,
+                281
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
